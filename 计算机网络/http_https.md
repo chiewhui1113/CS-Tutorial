@@ -1,6 +1,6 @@
 # HTTP和HTTPS的区别
 
-[![http_https](./Assets/Network/http_https.png)](https://www.bilibili.com/video/BV1Pg4y1S7cx?vd_source=f60330185adabf166359748da895c646)
+[![http_https](../Assets/Network/http_https.png)](https://www.bilibili.com/video/BV1Pg4y1S7cx?vd_source=f60330185adabf166359748da895c646)
 
 HTTP（超文本传输协议）是浏览器和服务器沟通的一种方法。不过由于HTTP不提供数据加密，黑客可以很容易读取/篡改这些信息。为了解决这个安全问题，引入了HTTPS（超文本传输安全协议），多出的S是secure安全的意思。HTTPS在HTTP的基础上加上了SSL/TLS加密层。在有涉及到支付网站都会使用HTTPS，以避免任何信息被盗。
 <br>

@@ -1,5 +1,7 @@
 # SRAM和DRAM的区别
 	
+[![SRAM](../Assets/Network/sram_dram.png)](https://www.bilibili.com/video/BV1Ck4y1D7ut?vd_source=f60330185adabf166359748da895c646)
+
 ## 存储信息
 SRAM用双稳定触发器，DRAM用棚级电容
 	

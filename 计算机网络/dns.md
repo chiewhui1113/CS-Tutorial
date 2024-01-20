@@ -1,6 +1,6 @@
 # DNS解析过程
 
-[![DNS](./Assets/Network/dns.png)](https://www.bilibili.com/video/BV1KK4y1i7gD?vd_source=f60330185adabf166359748da895c646)
+[![DNS](../Assets/Network/dns.png)](https://www.bilibili.com/video/BV1KK4y1i7gD?vd_source=f60330185adabf166359748da895c646)
 
 DNS的基本工作就是把域名转IP。DNS和ARP一样有一个缓存，记录之前查过的域名。假如已经保存，就可以直接返回IP给客户端，没有的话就需要通过递归/迭代查询。以下例子是迭代查询：
 	
