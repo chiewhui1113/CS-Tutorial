@@ -4,7 +4,7 @@
 做这个秒懂系列，为了让教程简单易懂，需要四处看视频查资料，所以也是在督促自己学习吧！希望大家继续支持和喜欢这个秒懂系列！
 
 1. [计算机网络](https://github.com/chiewhui1113/CS-Tutorial/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
-2. [操作系统](https://github.com/chiewhui1113/CS-Tutorial/blob/main/%E6%93%8D%E7%BA%B5%E7%B3%BB%E7%BB%9F/%E6%93%8D%E7%BA%B5%E7%B3%BB%E7%BB%9F.md)
+2. [操作系统](https://github.com/chiewhui1113/CS-Tutorial/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 3. [算法和数据结构](https://github.com/chiewhui1113/CS-Tutorial/blob/main/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 4. [数据库](https://github.com/chiewhui1113/CS-Tutorial/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 5. [计算机组成原理](https://github.com/chiewhui1113/CS-Tutorial/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
