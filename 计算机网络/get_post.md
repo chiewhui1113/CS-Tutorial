@@ -1,6 +1,6 @@
 # GET和POST的区别
 
-![get_post](../Assets/Network/get_post.JPG)
+![get_post](../Assets/Network/get_post.jpg)
 
 GET和POST是HTTP协议中的两种发送请求方式。GET是从指定的资源请求数据，POST则是向指定的资源提交数据
 
